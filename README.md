@@ -1,4 +1,3 @@
-[Uploading capstone_repository_index_README.md…]()
 # Vision-Based Robotic Grasping Pipeline
 
 This repository index groups the main modules used for a vision-based robotic grasping pipeline.  
