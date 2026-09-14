@@ -5,7 +5,7 @@ Each module is maintained as an independent GitHub repository and can be accesse
 
 ## Demo Video
 
-<video src="./캡스톤%20영상.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/7556ff61-81b8-4132-88f2-11aabe185146
 
 ## System Overview
 
