@@ -3,6 +3,10 @@
 This repository index groups the main modules used for a vision-based robotic grasping pipeline.  
 Each module is maintained as an independent GitHub repository and can be accessed through the links below.
 
+## Demo Video
+
+<video src="./캡스톤%20영상.mp4" controls width="100%"></video>
+
 ## System Overview
 
 ```text
